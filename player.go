@@ -1,4 +1,4 @@
-package pkg
+package games
 
 type Player struct {
 	CurrentVector Vector

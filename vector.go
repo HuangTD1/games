@@ -1,4 +1,4 @@
-package pkg
+package games
 
 import "math"
 
